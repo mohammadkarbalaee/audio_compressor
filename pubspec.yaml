@@ -3,7 +3,6 @@ description: Audio compression made easy in Flutter
 version: 0.0.1
 homepage: https://pub.dev/packages/audio_compressor
 
-# Specify supported platforms
 platforms:
   android: ^1.0.0
   ios: ^1.0.0
